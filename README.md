@@ -42,10 +42,4 @@
 
 - 📧 Email: `6severin9@gmail.com`  
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=severin-ye&show_icons=true&theme=tokyonight" alt="Severin's GitHub Stats" />
-</p>
