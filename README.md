@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Severin Ye 👋</h1>
 <p align="center">
-  <b>AI Researcher · Full-stack Developer · Trilingual Thinker</b><br>
+  <b>AI Researcher · Quick learner · Full-stack Developer · Trilingual Thinker</b><br>
   🇨🇳 中文 | 🇰🇷 한국어 (TOPIK 4) | 🇬🇧 English
 </p>
 
@@ -25,16 +25,6 @@
 | ⚙️ DevOps     | Git, Docker, VS Code Remote SSH |
 | 🧱 Platforms   | Linux (WSL/Ubuntu), Colab, Azure |
 
----
-
-## 🚀 Featured Projects
-
-### 📘 **Tex Pro** — AI-powered Academic Proofreading  
-> Multi-agent · GPT Integration · Windows Native Packaging  
-> *Status: Development in progress*
-
-### 🧾 **AI Paper Annotator** — One-click PDF Translation + Term Highlighting  
-> OCR · Vision-Language Models · Offline-ready (WIP)
 
 ---
 
