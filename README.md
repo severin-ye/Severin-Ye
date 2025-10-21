@@ -20,7 +20,7 @@
 | 💻 Programming | Python, JavaScript, Dart, Solidity |
 | 🔙 Backend     | Flask, FastAPI |
 | 🎨 Frontend    | React, Vue |
-| 🧠 AI/ML       | PyTorch, TensorFlow, HuggingFace Transformers |
+| 🧠 AI/ML       | PyTorch, TensorFlow, MS-Swift|
 | ⚙️ DevOps     | Git, Docker, VS Code Remote SSH |
 | 🧱 Platforms   | Linux (WSL/Ubuntu), Colab, Azure |
 
