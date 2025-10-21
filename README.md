@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Severin Ye 👋</h1>
 <p align="center">
   <b>AI Researcher · Quick learner · Full-stack Developer · Trilingual Thinker</b><br>
-  🇨🇳 中文 | 🇰🇷 한국어 (TOPIK 4) | 🇬🇧 English
 </p>
 
 ---
