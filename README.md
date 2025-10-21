@@ -17,9 +17,9 @@
 
 | Area         | Tools / Frameworks |
 |--------------|---------------------|
-| 💻 Programming | Python, JavaScript, Shell |
+| 💻 Programming | Python, JavaScript, Dart, Solidity |
 | 🔙 Backend     | Flask, FastAPI |
-| 🎨 Frontend    | React, TailwindCSS |
+| 🎨 Frontend    | React, Vue |
 | 🧠 AI/ML       | PyTorch, TensorFlow, HuggingFace Transformers |
 | ⚙️ DevOps     | Git, Docker, VS Code Remote SSH |
 | 🧱 Platforms   | Linux (WSL/Ubuntu), Colab, Azure |
