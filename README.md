@@ -5,6 +5,11 @@
 
 ---
 
+<p align="center">
+  🌐 <a href="https://severin-ye.github.io" target="_blank">https://severin-ye.github.io</a>
+</p>
+
+
 ## 🧠 About Me
 
 🎓 3rd-year CS student at **Kyungpook National University (KNU)**, majoring in **Global Software Convergence**.  
