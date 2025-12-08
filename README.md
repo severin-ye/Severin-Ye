@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-🎓 3rd-year CS student at **Kyungpook National University (KNU)**, majoring in **Global Software Convergence**.  
+🎓 4rd-year CS student at **Kyungpook National University (KNU)**, majoring in **Global Software Convergence**.  
 🔬 Focused on **LLM Agents**, **RAG + Knowledge Graphs**, and **Hallucination Reduction**.  
 🛠 Passionate about building real-world AI tools — from backend logic to full UI/UX.  
 
